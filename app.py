@@ -1,6 +1,6 @@
 import pandas as pd
 from tkinter import *
-from tkinter import filedialog, messagebox, simpledialog  # Добавить simpledialog
+from tkinter import filedialog, messagebox, simpledialog  
 from tkinter import ttk
 
 class DataAnalysisApp:
